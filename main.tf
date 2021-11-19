@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "remote_s3" {
-    bucket = "s3-backend-bucket-aaaaa-11111"
+    bucket = "s3-backend-bucket-aaaaa-123"
 	
 	versioning {
 		enabled = true 
